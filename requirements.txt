@@ -1,0 +1,5 @@
+h5py==3.12.1
+matplotlib==3.10.1
+numpy==2.2.4
+torch==2.5.1+cu118
+tqdm==4.67.1
